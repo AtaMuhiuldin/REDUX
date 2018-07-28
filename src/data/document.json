@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 0,
+        "name":"AtaMuhiuldin",
+        "regNo":"15-NTU-1148",
+        "decipline": "BSSE"
+    },
+    {
+        "id" : 1,
+        "name":"AtaMuhiuldin",
+        "regNo":"15-NTU-1148",
+        "decipline": "BSSE"
+    }, {
+        "id" : 2,
+        "name":"AtaMuhiuldin",
+        "regNo":"15-NTU-1148",
+        "decipline": "BSSE"
+    }, {
+        "id" : 3,
+        "name":"AtaMuhiuldin",
+        "regNo":"15-NTU-1148",
+        "decipline": "BSSE"
+    }
+ 
+
+]
